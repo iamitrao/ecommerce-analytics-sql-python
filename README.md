@@ -54,10 +54,5 @@ It demonstrates data cleaning, sales insights, customer behavior analysis, and b
 3. Run SQL queries in MySQL/Postgres/SQLite
 4. Open ` python analysis.ipynb` → run in Jupyter Notebook or VS Code
 
----
 
-## 📸 Screenshots (Add after running)
-- Monthly revenue chart
-- RFM segmentation heatmap
-- Cohort analysis matrix
 
